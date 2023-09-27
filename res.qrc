@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>keyboard.qml</file>
+        <file>res/qmlweston.json</file>
+        <file>KeyModel.qml</file>
+        <file>KeyButton.qml</file>
+        <file>FontAwesome.otf</file>
+    </qresource>
+</RCC>
